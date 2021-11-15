@@ -1,4 +1,4 @@
-# certificates
+# Certificates
 
 Microsoft Certified: Azure Fundamentals  
 Issued by Microsoft  
